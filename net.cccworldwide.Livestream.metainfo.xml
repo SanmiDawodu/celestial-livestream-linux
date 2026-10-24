@@ -59,6 +59,11 @@
     <display_length compare="ge">480</display_length>
   </requires>
   <releases>
+    <release version="1.1.0" date="2026-10-24">
+      <description>
+        <p>Tray icon with what is on air, a notification when a live service starts, sound only, launcher actions, start with the computer, and the window remembers its size.</p>
+      </description>
+    </release>
     <release version="1.0.0" date="2026-10-24">
       <description>
         <p>First release.</p>
