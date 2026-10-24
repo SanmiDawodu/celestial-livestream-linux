@@ -1,0 +1,14 @@
+{
+  "name": "celestial-worldwide-livestream",
+  "productName": "Celestial Worldwide Livestream",
+  "version": "1.0.0",
+  "description": "Watch Celestial Church of Christ Worldwide services live and the CCC Worldwide 24/7 channel.",
+  "homepage": "https://ccc-worldwide.org/app/",
+  "author": {
+    "name": "Celestial Church of Christ Worldwide Community",
+    "email": "support@ccc-worldwide.org"
+  },
+  "license": "MIT",
+  "main": "main.js",
+  "desktopName": "net.cccworldwide.Livestream.desktop"
+}

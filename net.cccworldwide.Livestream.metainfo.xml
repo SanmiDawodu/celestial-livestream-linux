@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>net.cccworldwide.Livestream</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>Celestial Worldwide Livestream</name>
+  <summary>Watch CCC Worldwide services live and the 24/7 channel</summary>
+  <developer id="net.cccworldwide">
+    <name>Celestial Church of Christ Worldwide Community</name>
+  </developer>
+  <description>
+    <p>
+      The official livestream player of the Celestial Church of Christ (CCC) Worldwide Community.
+      Watch the church's live services, its second studio and the CCC Worldwide 24/7 channel of
+      past services, sermons and hymns.
+    </p>
+    <p>The app plays whatever is on air by itself, with no sign-in and no setup.</p>
+    <ul>
+      <li>Live services as they happen</li>
+      <li>Studio 2 and the CCC Worldwide 24/7 channel</li>
+      <li>TV guide and service announcements</li>
+      <li>Full screen with F11</li>
+    </ul>
+  </description>
+  <launchable type="desktop-id">net.cccworldwide.Livestream.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <caption>A live service</caption>
+      <image>https://raw.githubusercontent.com/SanmiDawodu/celestial-livestream-linux/v1.0.0/screenshots/1.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>The congregation during a service</caption>
+      <image>https://raw.githubusercontent.com/SanmiDawodu/celestial-livestream-linux/v1.0.0/screenshots/2.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://ccc-worldwide.org/app/</url>
+  <url type="contact">https://ccc-worldwide.org/contact/</url>
+  <url type="vcs-browser">https://github.com/SanmiDawodu/celestial-livestream-linux</url>
+  <categories>
+    <category>AudioVideo</category>
+    <category>Video</category>
+  </categories>
+  <keywords>
+    <keyword>church</keyword>
+    <keyword>livestream</keyword>
+    <keyword>sermon</keyword>
+    <keyword>worship</keyword>
+  </keywords>
+  <branding>
+    <color type="primary" scheme_preference="light">#e7b84a</color>
+    <color type="primary" scheme_preference="dark">#07101d</color>
+  </branding>
+  <content_rating type="oars-1.1"/>
+  <supports>
+    <control>pointing</control>
+    <control>keyboard</control>
+  </supports>
+  <requires>
+    <display_length compare="ge">480</display_length>
+  </requires>
+  <releases>
+    <release version="1.0.0" date="2026-10-24">
+      <description>
+        <p>First release.</p>
+      </description>
+    </release>
+  </releases>
+</component>

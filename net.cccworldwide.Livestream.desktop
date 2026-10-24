@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Celestial Worldwide Livestream
+GenericName=Church livestream
+Comment=Watch CCC Worldwide services live and the 24/7 channel
+Exec=celestial-livestream %U
+Icon=net.cccworldwide.Livestream
+Terminal=false
+Categories=AudioVideo;Video;Player;
+Keywords=church;celestial;ccc;livestream;sermon;worship;
+StartupWMClass=Celestial Worldwide Livestream
